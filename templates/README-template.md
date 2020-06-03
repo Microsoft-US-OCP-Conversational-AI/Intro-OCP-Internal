@@ -1,8 +1,8 @@
-# Introduction to the US OCP Conversational AI GitHub Organization
+# Introduction to the US OCP \<SUB-TEAM\> GitHub Organization
 
 # Overview
 
-This project is aimed to serve as a central repository for assets, solutions, and content aimed to serve US OCP Conversational AI partners.
+This project is aimed to serve as a central repository for assets, solutions, and content aimed to serve US OCP \<SUB-TEAM\> partners.
 
 Partners can leverage, fork, contribute and share content within this project as a traditional public repo.
 
@@ -15,19 +15,19 @@ FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any
 additional questions or comments.
 
-# Permissions & Contributing
+## Permissions & Contributions
 
 There are two ways in which you can help update the content:
 
 * **Share Personal Public Repo:** \
 If you are an ad-hoc contributor to the project, but you would like to
-maintain the changes within your personal repos and contribute the changes, the best way to do it is:
+maintain the changes within your personal repos and contribute some changes, the best way to do it is:
 
   1. Fork from your personal repo into this project
-  2. Periodically, update the "us-ocp-ai" repo to sync with your linked repo.
+  2. Periodically, update the "\<country\>-ocp-\<sub-team\>" repo to sync with your linked repo.
 
-* **US-OCP-AI Original Repo:** \
-If you plan to create content that originates from within this organization, thus you can update the content semi-regularly or regularly, each US OCP AI internal team member is listed as project's Owners group. 
+* **US-OCP-\<SUB-TEAM\> Original Repo:** \
+If you plan to create content that originates from within this organization, thus you can update the content semi-regularly or regularly, each US OCP \<SUB-TEAM\> internal team member is listed as project's Owners group. 
 
 # Contribution Guidelines
 
@@ -44,7 +44,6 @@ This GitHub project is a centralized library for Tier 1 assets, as defined by th
   - Use dashes
   - Avoid camel casing
   - Be specific, descriptive, and brief 
-  - e.g. predictive-maintenance 
 
 ## Additional Contribution Practices Encouraged
 
